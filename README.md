@@ -3,7 +3,7 @@ Hi there 👋
 Welcome to Sony Al'amri's GitHub profile!
 -->
 
-<h1 align="center">Hi 👋, I'm Sony Al'amri</h1>
+<h1 align="center">Hi , I'm Sony Al'amri</h1>
 <p align="center">
   <i>Web Developer | Frontend & Fullstack | Future Mobile Developer</i>
 </p>
