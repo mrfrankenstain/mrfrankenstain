@@ -20,14 +20,14 @@ Welcome to Sony Al'amri's GitHub profile!
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Halo! Saya adalah mahasiswa semester dua Teknik Informatika di Universitas Sangga Buana YPKP Bandung dengan dasar yang kuat dalam pengembangan fullstack.  
 Dengan pengalaman profesional sebagai fullstack developer di CV. Four Vision Media dan PT. Galan Unggul Tekno Sembada, saya memiliki keahlian dalam pengembangan web, manajemen basis data, dan pembuatan aplikasi yang ramah pengguna menggunakan teknologi dan kerangka kerja modern.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,7 +44,7 @@ Dengan pengalaman profesional sebagai fullstack developer di CV. Four Vision Med
 ---
 
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="https://instagram.com/sonyalamri" target="_blank">
